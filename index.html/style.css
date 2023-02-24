@@ -44,38 +44,31 @@ p {
     padding: 15px;
     font-size: 20px;
     line-height: 50px;
+    padding-bottom: 7vh;
+
    
 
 }
 section.img01 > p{
 
     background-color: rgba(0, 0, 0, 0.504);
-    width: 250px;
-    height: 350px;
     color:white;
-    display: block;
+    display: inline-block;
     margin-top: 40px;
+    margin-left: 10px;
+    font-size: 2.5vw;
 
 }
 
 section.img02 > p{
     background-color: rgba(0, 0, 0, 0.504);
-    width: 250px;
-    height: 350px;
+    font-size: 2.5vw;
     color:white;
     display: block;
     margin-top: 40px;
-
-
-
-}
-
-
-section{
-    padding-top: 30px;
-    padding-left: 25px;
-
-
+    margin-left: 10px;
+    display: inline-block;
+    
 
 }
 
