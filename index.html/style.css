@@ -53,11 +53,6 @@ section{
     font-size: 2.5vw;
 
 
-
-
-
-
-
 }
 section.img01 > p{
 
@@ -86,7 +81,6 @@ section.img02 > p{
     background-position: center center;
     background-attachment: fixed;
     box-shadow: inset 5px 5px 10px 5px rgba(0, 0, 0, 0.437);
-    background-size: cover;
 }
 .img02{
     background-image: url('../imagens/background002.jpg');
@@ -94,7 +88,6 @@ section.img02 > p{
     background-position: center center;
     background-attachment: fixed;
     box-shadow: inset 5px 5px 10px 5px rgba(0, 0, 0, 0.437);
-    background-size: cover;
 
 }
 
