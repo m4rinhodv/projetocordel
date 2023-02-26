@@ -48,7 +48,7 @@ p {
     padding: 15px;
     line-height: 7vh;
     padding-bottom: 5vh;
-    font-size: 3vh;
+    font-size: 2vh;
 
    
 
@@ -62,9 +62,10 @@ section.img01 > p{
 
     background-color: rgba(0, 0, 0, 0.504);
     color:white;
-    display: inline-block;
+    display: flex;
     margin-top: 40px;
     margin-left: 10px;
+
 
 }
 
